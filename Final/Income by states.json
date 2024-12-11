@@ -1,0 +1,314 @@
+[
+  {
+    "State": "Puerto Rico",
+    "FIPS": 72001,
+    "Value (Dollars)": "24,002",
+    "Rank within US (of 52 states)": 52
+  },
+  {
+    "State": "Mississippi",
+    "FIPS": 28000,
+    "Value (Dollars)": "52,985",
+    "Rank within US (of 52 states)": 51
+  },
+  {
+    "State": "West Virginia",
+    "FIPS": 54000,
+    "Value (Dollars)": "55,217",
+    "Rank within US (of 52 states)": 50
+  },
+  {
+    "State": "Arkansas",
+    "FIPS": "05000",
+    "Value (Dollars)": "56,335",
+    "Rank within US (of 52 states)": 49
+  },
+  {
+    "State": "Louisiana",
+    "FIPS": 22000,
+    "Value (Dollars)": "57,852",
+    "Rank within US (of 52 states)": 48
+  },
+  {
+    "State": "New Mexico",
+    "FIPS": 35000,
+    "Value (Dollars)": "58,722",
+    "Rank within US (of 52 states)": 47
+  },
+  {
+    "State": "Alabama",
+    "FIPS": "01000",
+    "Value (Dollars)": "59,609",
+    "Rank within US (of 52 states)": 46
+  },
+  {
+    "State": "Kentucky",
+    "FIPS": 21000,
+    "Value (Dollars)": "60,183",
+    "Rank within US (of 52 states)": 45
+  },
+  {
+    "State": "Oklahoma",
+    "FIPS": 40000,
+    "Value (Dollars)": "61,364",
+    "Rank within US (of 52 states)": 44
+  },
+  {
+    "State": "South Carolina",
+    "FIPS": 45000,
+    "Value (Dollars)": "63,623",
+    "Rank within US (of 52 states)": 43
+  },
+  {
+    "State": "Tennessee",
+    "FIPS": 47000,
+    "Value (Dollars)": "64,035",
+    "Rank within US (of 52 states)": 42
+  },
+  {
+    "State": "Missouri",
+    "FIPS": 29000,
+    "Value (Dollars)": "65,920",
+    "Rank within US (of 52 states)": 41
+  },
+  {
+    "State": "North Carolina",
+    "FIPS": 37000,
+    "Value (Dollars)": "66,186",
+    "Rank within US (of 52 states)": 40
+  },
+  {
+    "State": "Montana",
+    "FIPS": 30000,
+    "Value (Dollars)": "66,341",
+    "Rank within US (of 52 states)": 39
+  },
+  {
+    "State": "Ohio",
+    "FIPS": 39000,
+    "Value (Dollars)": "66,990",
+    "Rank within US (of 52 states)": 38
+  },
+  {
+    "State": "Indiana",
+    "FIPS": 18000,
+    "Value (Dollars)": "67,173",
+    "Rank within US (of 52 states)": 37
+  },
+  {
+    "State": "Florida",
+    "FIPS": 12000,
+    "Value (Dollars)": "67,917",
+    "Rank within US (of 52 states)": 36
+  },
+  {
+    "State": "Maine",
+    "FIPS": 23000,
+    "Value (Dollars)": "68,251",
+    "Rank within US (of 52 states)": 35
+  },
+  {
+    "State": "Michigan",
+    "FIPS": 26000,
+    "Value (Dollars)": "68,505",
+    "Rank within US (of 52 states)": 34
+  },
+  {
+    "State": "South Dakota",
+    "FIPS": 46000,
+    "Value (Dollars)": "69,457",
+    "Rank within US (of 52 states)": 33
+  },
+  {
+    "State": "Kansas",
+    "FIPS": 20000,
+    "Value (Dollars)": "69,747",
+    "Rank within US (of 52 states)": 32
+  },
+  {
+    "State": "Idaho",
+    "FIPS": 16000,
+    "Value (Dollars)": "70,214",
+    "Rank within US (of 52 states)": 31
+  },
+  {
+    "State": "Iowa",
+    "FIPS": 19000,
+    "Value (Dollars)": "70,571",
+    "Rank within US (of 52 states)": 30
+  },
+  {
+    "State": "Georgia",
+    "FIPS": 13000,
+    "Value (Dollars)": "71,355",
+    "Rank within US (of 52 states)": 29
+  },
+  {
+    "State": "Nevada",
+    "FIPS": 32000,
+    "Value (Dollars)": "71,646",
+    "Rank within US (of 52 states)": 28
+  },
+  {
+    "State": "Nebraska",
+    "FIPS": 31000,
+    "Value (Dollars)": "71,722",
+    "Rank within US (of 52 states)": 27
+  },
+  {
+    "State": "Wisconsin",
+    "FIPS": 55000,
+    "Value (Dollars)": "72,458",
+    "Rank within US (of 52 states)": 26
+  },
+  {
+    "State": "Wyoming",
+    "FIPS": 56000,
+    "Value (Dollars)": "72,495",
+    "Rank within US (of 52 states)": 25
+  },
+  {
+    "State": "Arizona",
+    "FIPS": "04000",
+    "Value (Dollars)": "72,581",
+    "Rank within US (of 52 states)": 24
+  },
+  {
+    "State": "Texas",
+    "FIPS": 48000,
+    "Value (Dollars)": "73,035",
+    "Rank within US (of 52 states)": 23
+  },
+  {
+    "State": "Pennsylvania",
+    "FIPS": 42000,
+    "Value (Dollars)": "73,170",
+    "Rank within US (of 52 states)": 22
+  },
+  {
+    "State": "North Dakota",
+    "FIPS": 38000,
+    "Value (Dollars)": "73,959",
+    "Rank within US (of 52 states)": 21
+  },
+  {
+    "State": "Vermont",
+    "FIPS": 50000,
+    "Value (Dollars)": "74,014",
+    "Rank within US (of 52 states)": 20
+  },
+  {
+    "State": "Oregon",
+    "FIPS": 41000,
+    "Value (Dollars)": "76,632",
+    "Rank within US (of 52 states)": 19
+  },
+  {
+    "State": "Illinois",
+    "FIPS": 17000,
+    "Value (Dollars)": "78,433",
+    "Rank within US (of 52 states)": 18
+  },
+  {
+    "State": "Delaware",
+    "FIPS": 10000,
+    "Value (Dollars)": "79,325",
+    "Rank within US (of 52 states)": 17
+  },
+  {
+    "State": "Rhode Island",
+    "FIPS": 44000,
+    "Value (Dollars)": "81,370",
+    "Rank within US (of 52 states)": 16
+  },
+  {
+    "State": "New York",
+    "FIPS": 36000,
+    "Value (Dollars)": "81,386",
+    "Rank within US (of 52 states)": 15
+  },
+  {
+    "State": "Minnesota",
+    "FIPS": 27000,
+    "Value (Dollars)": "84,313",
+    "Rank within US (of 52 states)": 14
+  },
+  {
+    "State": "Alaska",
+    "FIPS": "02900",
+    "Value (Dollars)": "86,370",
+    "Rank within US (of 52 states)": 13
+  },
+  {
+    "State": "Utah",
+    "FIPS": 49000,
+    "Value (Dollars)": "86,833",
+    "Rank within US (of 52 states)": 12
+  },
+  {
+    "State": "Virginia",
+    "FIPS": 51000,
+    "Value (Dollars)": "87,249",
+    "Rank within US (of 52 states)": 11
+  },
+  {
+    "State": "Colorado",
+    "FIPS": "08000",
+    "Value (Dollars)": "87,598",
+    "Rank within US (of 52 states)": 10
+  },
+  {
+    "State": "Connecticut",
+    "FIPS": "09000",
+    "Value (Dollars)": "90,213",
+    "Rank within US (of 52 states)": 9
+  },
+  {
+    "State": "Washington",
+    "FIPS": 53000,
+    "Value (Dollars)": "90,325",
+    "Rank within US (of 52 states)": 8
+  },
+  {
+    "State": "New Hampshire",
+    "FIPS": 33000,
+    "Value (Dollars)": "90,845",
+    "Rank within US (of 52 states)": 7
+  },
+  {
+    "State": "California",
+    "FIPS": "06000",
+    "Value (Dollars)": "91,905",
+    "Rank within US (of 52 states)": 6
+  },
+  {
+    "State": "Hawaii",
+    "FIPS": 15000,
+    "Value (Dollars)": "94,814",
+    "Rank within US (of 52 states)": 5
+  },
+  {
+    "State": "Massachusetts",
+    "FIPS": 25000,
+    "Value (Dollars)": "96,505",
+    "Rank within US (of 52 states)": 4
+  },
+  {
+    "State": "New Jersey",
+    "FIPS": 34000,
+    "Value (Dollars)": "97,126",
+    "Rank within US (of 52 states)": 3
+  },
+  {
+    "State": "Maryland",
+    "FIPS": 24000,
+    "Value (Dollars)": "98,461",
+    "Rank within US (of 52 states)": 2
+  },
+  {
+    "State": "District of Columbia",
+    "FIPS": 11001,
+    "Value (Dollars)": "101,722",
+    "Rank within US (of 52 states)": 1
+  }
+]
